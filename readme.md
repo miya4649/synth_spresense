@@ -13,3 +13,7 @@ https://developer.sony.com/ja/develop/spresense/developer-tools/get-started-usin
 
 
 その後、Arduino IDEでこのスケッチを書き込みます。
+
+## 詳しい解説と最新版
+
+http://cellspe.matrix.jp/miyaslair/synth_spresense.html
